@@ -14,7 +14,7 @@ Integrating Site Recording to your website doesn’t require any coding with Goo
 
 3. Add the template to your tag by clicking on "Add to Workspace".
 
-4. Copy the key from the application and place it in the "PushNinja Key" field in your tag after the template is added.
+4. Copy the key from the application and place it in the "Siterecording Key" field in your tag after the template is added.
 
 5. Add a trigger by clicking on "Triggering" below the Tag and choose "All Pages".
 
@@ -26,6 +26,12 @@ Integrating Site Recording to your website doesn’t require any coding with Goo
 ### Support
 Contact our support team through “Live Chat” or “Help us improve” options through our application.
 
+
+![alt text](https://infinity.500apps.com/img/pushninja/GTM-Image-1.png)
+
+![alt text](https://infinity.500apps.com/img/pushninja/GTM-Image-2.png)
+
+![alt text](https://infinity.500apps.com/img/pushninja/GTM-Image-3.png)
 
 
 Alternatively, you can contact us through mail at feedback@500apps.com

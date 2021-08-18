@@ -1,9 +1,6 @@
 homepage: "https://siterecording.com"
 documentation: ""
 versions:
-  # Latest version
+  # First Release
   - sha: aa99cc0892da261c017266a540655f1e2884be0b
     changeNotes: Updated the template file.
-  # Older versions
-  - sha: 9671822bd1a72946803f671ddc8402e571ba30b6
-    changeNotes: Fixed the gtm url.
