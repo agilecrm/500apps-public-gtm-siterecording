@@ -1,6 +1,9 @@
 homepage: "https://siterecording.com"
 documentation: ""
 versions:
-  # First Release
+  # Latest Release
+  - sha: b775e33b365d2e5dcf93cfba058accf715c2862e
+    changeNotes: Updated the template code.
+  # Older Release
   - sha: aa99cc0892da261c017266a540655f1e2884be0b
     changeNotes: Updated the template file.
