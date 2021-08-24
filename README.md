@@ -1,8 +1,7 @@
 # Site Recording by 500apps - Website Visitor Tracker 
-Site recording is a tool that records browsing sessions of website visitors. It enables marketers to understand the entire user journeys on the website as well as how they use your site, allowing you to see everything they do. Examine each mouse movement, scroll, click on your website.
-You can use this to identify areas that cause users to leave, identify user frustration and determine if certain elements on your website are confusing the user. This allows you to make more informed decisions, create a better digital experience for your visitors and improve user experience.
+Record the visitor journey of your website on a click. Analyze the behavior based on the visitors’ actions and find the areas of improvement by knowing what your visitor needs through siterecording software. Determine the missing elements in the website and simplify the marketing efforts that drive to create high user engagements and ultimate customer experience. 
 
-[Get Started](https://infinity.500apps.com/siterecording) with your web visitor tracking with [Site Recording](https://siterecording.com)
+[Get Started](https://infinity.500apps.com/siterecording) to understand website visitor behavior with [Site Recording](https://siterecording.com)
 
  
 ### Installation
@@ -14,7 +13,7 @@ Integrating Site Recording to your website doesn’t require any coding with Goo
 
 3. Add the template to your tag by clicking on "Add to Workspace".
 
-4. Copy the key from the application and place it in the "Siterecording Key" field in your tag after the template is added.
+4. Copy the key from the application and place it in the "Site Recording Key" field in your tag after the template is added.
 
 5. Add a trigger by clicking on "Triggering" below the Tag and choose "All Pages".
 
