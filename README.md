@@ -1,5 +1,5 @@
-# Site Recording by 500apps - Website Visitor Tracker 
-Record the visitor journey of your website on a click. Analyze the behavior based on the visitors’ actions and find the areas of improvement by knowing what your visitor needs through siterecording software. Determine the missing elements in the website and simplify the marketing efforts that drive to create high user engagements and ultimate customer experience. 
+# Site Recording by 500apps - Session Recording Software
+Record the visitor journey of your website on a click. Analyze the behavior based on the visitor’s actions and find the areas of improvement by knowing what your visitor needs through siterecording software. Determine the missing elements in the website and simplify the marketing efforts that drive to create high user engagements and ultimate customer experience. 
 
 [Get Started](https://infinity.500apps.com/siterecording) to understand website visitor behavior with [Site Recording](https://siterecording.com)
 
@@ -9,7 +9,7 @@ Integrating Site Recording to your website doesn’t require any coding with Goo
 
 1. Log in to Google Tag Manager, navigate your account and click on "Add a new tag".
 
-2. Search for our community template "Site Recording by 500 apps " in the "Community Template Gallery".
+2. Search for our community template "Site Recording by 500 apps" in the "Community Template Gallery".
 
 3. Add the template to your tag by clicking on "Add to Workspace".
 
