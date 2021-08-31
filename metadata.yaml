@@ -1,9 +1,9 @@
-homepage: "https://pushninja.com"
+homepage: "https://siterecording.com"
 documentation: ""
 versions:
-  # Latest version
-  - sha: 4d93eb730943f4b3d508a1d83202363a4f0776dd
-    changeNotes: Added the helptext and changed the label.
-  # Older versions
-  - sha: 9671822bd1a72946803f671ddc8402e571ba30b6
-    changeNotes: Fixed the gtm url.
+  # New Release
+  - sha: 755aa6e27c906b11b94a7bb8adeac008094f9597
+    changeNotes: Content change.
+  # First Release
+  - sha: b775e33b365d2e5dcf93cfba058accf715c2862e
+    changeNotes: Initial Release.
