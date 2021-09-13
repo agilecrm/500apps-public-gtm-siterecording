@@ -14,7 +14,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Siterecording by 500apps (Session Recording Software)",
+  "displayName": "SiteRecording by 500apps (Session Recording Software)",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -33,14 +33,14 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "TEXT",
     "name": "api_key",
-    "displayName": "Siterecording Key",
+    "displayName": "SiteRecording Key",
     "simpleValueType": true,
     "valueValidators": [
       {
         "type": "NON_EMPTY"
       }
     ],
-    "help": "Please copy the Site Recording Key from Website -\u003e Share/Copy script sidebar -\u003e Connections -\u003e Google Tag Manager at https://infinity.500apps.com/siterecording"
+    "help": "Please copy the SiteRecording Key from Website -\u003e Share/Copy script sidebar -\u003e Connections -\u003e Google Tag Manager at https://infinity.500apps.com/siterecording"
   }
 ]
 
