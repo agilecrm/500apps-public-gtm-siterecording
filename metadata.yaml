@@ -2,8 +2,8 @@ homepage: "https://siterecording.com"
 documentation: ""
 versions:
   # New Release
+  - sha: 15817840455711ecbc166bcc97ceb083225a2db8
+    changeNotes: Added the test case.
+  # First Release
   - sha: 755aa6e27c906b11b94a7bb8adeac008094f9597
     changeNotes: Content change.
-  # First Release
-  - sha: b775e33b365d2e5dcf93cfba058accf715c2862e
-    changeNotes: Initial Release.
