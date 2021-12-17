@@ -10,11 +10,11 @@ ___INFO___
 
 {
   "type": "TAG",
-  "categories": "MARKETING",
+  "categories": ["MARKETING"],
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "SiteRecording by 500apps (Session Recording Software)",
+  "displayName": "500apps - SiteRecording",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -113,7 +113,19 @@ ___WEB_PERMISSIONS___
 
 ___TESTS___
 
-scenarios: []
+scenarios:
+- name: Test case 1
+  code: |-
+    const mockData = {
+      // Mocked field values
+      api_key:'MTEwMDE5NjgxNzE4MTI3LWRldg=='
+    };
+
+    // Call runCode to run the template's code.
+    runCode(mockData);
+
+    // Verify that the tag finished successfully.
+    assertApi('gtmOnSuccess').wasCalled();
 
 
 ___NOTES___
